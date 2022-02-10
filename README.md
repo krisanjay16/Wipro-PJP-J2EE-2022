@@ -1,5 +1,5 @@
 # Wipro-PJP-J2EE-2022
-Wipro PBL J2EE
+Wipro Pre Joining Program (Java J2EE) 2022: Hands-On Assignments and Mini-Projects Solutions
 
 Dont try to copy paste for your assignments, Use this to refer and learn.
 
